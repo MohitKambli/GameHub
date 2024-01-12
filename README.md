@@ -5,14 +5,12 @@
   <img src="https://github.com/MohitKambli/GameHub/blob/main/Screenshots/SS8.jpg" width=400 height=250>
 </div>
 <h2>Features</h2>
-<b>Pong:</b> Experience the classic Pong game with intuitive controls. Move your paddles strategically to outsmart your opponent and score points.
-
-
-<b>Dodge Obstacles:</b> Test your reflexes and agility as you navigate through a challenging obstacle course. Dodge obstacles to achieve the highest score possible.
-
-<b>Tic-Tac-Toe:</b> Play the timeless game of Tic-Tac-Toe with a Python implementation that supports both player-vs-player and player-vs-AI modes.
-
-<b>Flappy Bird:</b> Dive into the addictive Flappy Bird game, where you control a bird through a series of pipes. Tap your way to the highest score in this challenging and nostalgic adventure.
+<ul>
+<li><b>Pong:</b> Experience the classic Pong game with intuitive controls. Move your paddles strategically to outsmart your opponent and score points.</li>
+<li><b>Dodge Obstacles:</b> Test your reflexes and agility as you navigate through a challenging obstacle course. Dodge obstacles to achieve the highest score possible.</li>
+<li><b>Tic-Tac-Toe:</b> Play the timeless game of Tic-Tac-Toe with a Python implementation that supports both player-vs-player and player-vs-AI modes.</li>
+<li><b>Flappy Bird:</b> Dive into the addictive Flappy Bird game, where you control a bird through a series of pipes. Tap your way to the highest score in this challenging and nostalgic adventure.</li>
+</ul>
 </p>
 
 <h2>Installation Guide</h2>
