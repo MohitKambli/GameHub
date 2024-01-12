@@ -27,7 +27,7 @@ def game():
 
     # Create the screen
     screen = pygame.display.set_mode((WIDTH, HEIGHT))
-    pygame.display.set_caption("Car Racing Game")
+    pygame.display.set_caption("Dodge Obstacles")
 
     # Clock to control the frame rate
     clock = pygame.time.Clock()
