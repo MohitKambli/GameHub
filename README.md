@@ -7,6 +7,7 @@
 <h2>Features</h2>
 <b>Pong:</b> Experience the classic Pong game with intuitive controls. Move your paddles strategically to outsmart your opponent and score points.
 
+
 <b>Dodge Obstacles:</b> Test your reflexes and agility as you navigate through a challenging obstacle course. Dodge obstacles to achieve the highest score possible.
 
 <b>Tic-Tac-Toe:</b> Play the timeless game of Tic-Tac-Toe with a Python implementation that supports both player-vs-player and player-vs-AI modes.
