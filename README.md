@@ -4,7 +4,7 @@
   <img src="https://github.com/MohitKambli/GameHub/blob/main/Screenshots/SS7.jpg" width=400 height=250>
   <img src="https://github.com/MohitKambli/GameHub/blob/main/Screenshots/SS8.jpg" width=400 height=250>
 </div>
-<b>Features:</b>
+<h2>Features</h2>
 <b>Pong:</b> Experience the classic Pong game with intuitive controls. Move your paddles strategically to outsmart your opponent and score points.
 
 <b>Dodge Obstacles:</b> Test your reflexes and agility as you navigate through a challenging obstacle course. Dodge obstacles to achieve the highest score possible.
