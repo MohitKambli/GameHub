@@ -23,8 +23,8 @@
   <li>Pygame</li>
   <li>Tkinter</li>
 </ul>
-<h2>Application Link</h2>
-<p>https://github.com/MohitKambli/GameHub/tree/a0bb20b09144645f8c4e739a684eca5e2ae62990/dist</p>
+<h2>Download Application</h2>
+<p>https://github.com/MohitKambli/GameHub/raw/a0bb20b09144645f8c4e739a684eca5e2ae62990/dist/GameHub.exe</p>
 <h2>App Screenshots</h2>
 <div style= "float: left;width: 20%;padding: 100px;">
   <img src="https://github.com/MohitKambli/GameHub/blob/main/Screenshots/SS1.png" width=600 height=400>
