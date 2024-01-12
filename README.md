@@ -30,6 +30,6 @@
   <img src="https://github.com/MohitKambli/GameHub/blob/main/Screenshots/SS1.png" width=600 height=400>
   <img src="https://github.com/MohitKambli/GameHub/blob/main/Screenshots/SS2.png" width=600 height=400>
   <img src="https://github.com/MohitKambli/GameHub/blob/main/Screenshots/SS3.png" width=600 height=400>
-  <img src="https://github.com/MohitKambli/GameHub/blob/main/Screenshots/SS4.png" width=600 height=400>
+  <img src="https://github.com/MohitKambli/GameHub/blob/main/Screenshots/SS4.png" width=600 height=600>
   <img src="https://github.com/MohitKambli/GameHub/blob/main/Screenshots/SS5.png" width=600 height=400>
 </div>
